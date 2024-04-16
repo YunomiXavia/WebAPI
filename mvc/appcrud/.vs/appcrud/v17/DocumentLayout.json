@@ -1,0 +1,304 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\WebBe\\mvc\\appcrud\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E47BFB-0869-4CF5-9E4B-C2429E5E683F}|appcrud.csproj|e:\\webbe\\mvc\\appcrud\\migrations\\20240416193501_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E47BFB-0869-4CF5-9E4B-C2429E5E683F}|appcrud.csproj|solutionrelative:migrations\\20240416193501_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E47BFB-0869-4CF5-9E4B-C2429E5E683F}|appcrud.csproj|e:\\webbe\\mvc\\appcrud\\migrations\\appcrudcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E47BFB-0869-4CF5-9E4B-C2429E5E683F}|appcrud.csproj|solutionrelative:migrations\\appcrudcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E47BFB-0869-4CF5-9E4B-C2429E5E683F}|appcrud.csproj|e:\\webbe\\mvc\\appcrud\\model\\hanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E47BFB-0869-4CF5-9E4B-C2429E5E683F}|appcrud.csproj|solutionrelative:model\\hanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E47BFB-0869-4CF5-9E4B-C2429E5E683F}|appcrud.csproj|e:\\webbe\\mvc\\appcrud\\pages\\hanghoas\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E47BFB-0869-4CF5-9E4B-C2429E5E683F}|appcrud.csproj|solutionrelative:pages\\hanghoas\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E47BFB-0869-4CF5-9E4B-C2429E5E683F}|appcrud.csproj|e:\\webbe\\mvc\\appcrud\\pages\\hanghoas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8E47BFB-0869-4CF5-9E4B-C2429E5E683F}|appcrud.csproj|solutionrelative:pages\\hanghoas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E47BFB-0869-4CF5-9E4B-C2429E5E683F}|appcrud.csproj|e:\\webbe\\mvc\\appcrud\\pages\\hanghoas\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E47BFB-0869-4CF5-9E4B-C2429E5E683F}|appcrud.csproj|solutionrelative:pages\\hanghoas\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E47BFB-0869-4CF5-9E4B-C2429E5E683F}|appcrud.csproj|e:\\webbe\\mvc\\appcrud\\pages\\hanghoas\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8E47BFB-0869-4CF5-9E4B-C2429E5E683F}|appcrud.csproj|solutionrelative:pages\\hanghoas\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E47BFB-0869-4CF5-9E4B-C2429E5E683F}|appcrud.csproj|e:\\webbe\\mvc\\appcrud\\pages\\hanghoas\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E47BFB-0869-4CF5-9E4B-C2429E5E683F}|appcrud.csproj|solutionrelative:pages\\hanghoas\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E47BFB-0869-4CF5-9E4B-C2429E5E683F}|appcrud.csproj|e:\\webbe\\mvc\\appcrud\\pages\\hanghoas\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8E47BFB-0869-4CF5-9E4B-C2429E5E683F}|appcrud.csproj|solutionrelative:pages\\hanghoas\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E47BFB-0869-4CF5-9E4B-C2429E5E683F}|appcrud.csproj|e:\\webbe\\mvc\\appcrud\\pages\\hanghoas\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E47BFB-0869-4CF5-9E4B-C2429E5E683F}|appcrud.csproj|solutionrelative:pages\\hanghoas\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E47BFB-0869-4CF5-9E4B-C2429E5E683F}|appcrud.csproj|e:\\webbe\\mvc\\appcrud\\pages\\hanghoas\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8E47BFB-0869-4CF5-9E4B-C2429E5E683F}|appcrud.csproj|solutionrelative:pages\\hanghoas\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E47BFB-0869-4CF5-9E4B-C2429E5E683F}|appcrud.csproj|e:\\webbe\\mvc\\appcrud\\pages\\hanghoas\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E47BFB-0869-4CF5-9E4B-C2429E5E683F}|appcrud.csproj|solutionrelative:pages\\hanghoas\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E47BFB-0869-4CF5-9E4B-C2429E5E683F}|appcrud.csproj|e:\\webbe\\mvc\\appcrud\\pages\\hanghoas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8E47BFB-0869-4CF5-9E4B-C2429E5E683F}|appcrud.csproj|solutionrelative:pages\\hanghoas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E47BFB-0869-4CF5-9E4B-C2429E5E683F}|appcrud.csproj|e:\\webbe\\mvc\\appcrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E47BFB-0869-4CF5-9E4B-C2429E5E683F}|appcrud.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E47BFB-0869-4CF5-9E4B-C2429E5E683F}|appcrud.csproj|e:\\webbe\\mvc\\appcrud\\data\\appcrudcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E47BFB-0869-4CF5-9E4B-C2429E5E683F}|appcrud.csproj|solutionrelative:data\\appcrudcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E47BFB-0869-4CF5-9E4B-C2429E5E683F}|appcrud.csproj|e:\\webbe\\mvc\\appcrud\\appcrud.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B8E47BFB-0869-4CF5-9E4B-C2429E5E683F}|appcrud.csproj|solutionrelative:appcrud.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appcrudContextModelSnapshot.cs",
+              "DocumentMoniker": "E:\\WebBe\\mvc\\appcrud\\Migrations\\appcrudContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\appcrudContextModelSnapshot.cs",
+              "ToolTip": "E:\\WebBe\\mvc\\appcrud\\Migrations\\appcrudContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\appcrudContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T19:37:53.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20240416193501_Initial.cs",
+              "DocumentMoniker": "E:\\WebBe\\mvc\\appcrud\\Migrations\\20240416193501_Initial.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240416193501_Initial.cs",
+              "ToolTip": "E:\\WebBe\\mvc\\appcrud\\Migrations\\20240416193501_Initial.cs",
+              "RelativeToolTip": "Migrations\\20240416193501_Initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T19:35:01.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "E:\\WebBe\\mvc\\appcrud\\Pages\\HangHoas\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\HangHoas\\Index.cshtml.cs",
+              "ToolTip": "E:\\WebBe\\mvc\\appcrud\\Pages\\HangHoas\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\HangHoas\\Index.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T19:33:04.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "E:\\WebBe\\mvc\\appcrud\\Pages\\HangHoas\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\HangHoas\\Delete.cshtml.cs",
+              "ToolTip": "E:\\WebBe\\mvc\\appcrud\\Pages\\HangHoas\\Delete.cshtml.cs",
+              "RelativeToolTip": "Pages\\HangHoas\\Delete.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T19:33:04.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "E:\\WebBe\\mvc\\appcrud\\Pages\\HangHoas\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Pages\\HangHoas\\Delete.cshtml",
+              "ToolTip": "E:\\WebBe\\mvc\\appcrud\\Pages\\HangHoas\\Delete.cshtml",
+              "RelativeToolTip": "Pages\\HangHoas\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-16T19:33:04.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "E:\\WebBe\\mvc\\appcrud\\Pages\\HangHoas\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\HangHoas\\Details.cshtml.cs",
+              "ToolTip": "E:\\WebBe\\mvc\\appcrud\\Pages\\HangHoas\\Details.cshtml.cs",
+              "RelativeToolTip": "Pages\\HangHoas\\Details.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T19:33:04.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "E:\\WebBe\\mvc\\appcrud\\Pages\\HangHoas\\Details.cshtml",
+              "RelativeDocumentMoniker": "Pages\\HangHoas\\Details.cshtml",
+              "ToolTip": "E:\\WebBe\\mvc\\appcrud\\Pages\\HangHoas\\Details.cshtml",
+              "RelativeToolTip": "Pages\\HangHoas\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-16T19:33:04.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "E:\\WebBe\\mvc\\appcrud\\Pages\\HangHoas\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\HangHoas\\Edit.cshtml.cs",
+              "ToolTip": "E:\\WebBe\\mvc\\appcrud\\Pages\\HangHoas\\Edit.cshtml.cs",
+              "RelativeToolTip": "Pages\\HangHoas\\Edit.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T19:33:04.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\WebBe\\mvc\\appcrud\\Pages\\HangHoas\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Pages\\HangHoas\\Edit.cshtml",
+              "ToolTip": "E:\\WebBe\\mvc\\appcrud\\Pages\\HangHoas\\Edit.cshtml",
+              "RelativeToolTip": "Pages\\HangHoas\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-16T19:33:04.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "E:\\WebBe\\mvc\\appcrud\\Pages\\HangHoas\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\HangHoas\\Create.cshtml.cs",
+              "ToolTip": "E:\\WebBe\\mvc\\appcrud\\Pages\\HangHoas\\Create.cshtml.cs",
+              "RelativeToolTip": "Pages\\HangHoas\\Create.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T19:33:04.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\WebBe\\mvc\\appcrud\\Pages\\HangHoas\\Create.cshtml",
+              "RelativeDocumentMoniker": "Pages\\HangHoas\\Create.cshtml",
+              "ToolTip": "E:\\WebBe\\mvc\\appcrud\\Pages\\HangHoas\\Create.cshtml",
+              "RelativeToolTip": "Pages\\HangHoas\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-16T19:33:03.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\WebBe\\mvc\\appcrud\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\WebBe\\mvc\\appcrud\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T19:33:03.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appcrudContext.cs",
+              "DocumentMoniker": "E:\\WebBe\\mvc\\appcrud\\Data\\appcrudContext.cs",
+              "RelativeDocumentMoniker": "Data\\appcrudContext.cs",
+              "ToolTip": "E:\\WebBe\\mvc\\appcrud\\Data\\appcrudContext.cs",
+              "RelativeToolTip": "Data\\appcrudContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T19:33:03.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HangHoa.cs",
+              "DocumentMoniker": "E:\\WebBe\\mvc\\appcrud\\Model\\HangHoa.cs",
+              "RelativeDocumentMoniker": "Model\\HangHoa.cs",
+              "ToolTip": "E:\\WebBe\\mvc\\appcrud\\Model\\HangHoa.cs",
+              "RelativeToolTip": "Model\\HangHoa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T19:31:47.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\WebBe\\mvc\\appcrud\\Pages\\HangHoas\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\HangHoas\\Index.cshtml",
+              "ToolTip": "E:\\WebBe\\mvc\\appcrud\\Pages\\HangHoas\\Index.cshtml",
+              "RelativeToolTip": "Pages\\HangHoas\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-16T19:33:04.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appcrud",
+              "DocumentMoniker": "E:\\WebBe\\mvc\\appcrud\\appcrud.csproj",
+              "RelativeDocumentMoniker": "appcrud.csproj",
+              "ToolTip": "E:\\WebBe\\mvc\\appcrud\\appcrud.csproj",
+              "RelativeToolTip": "appcrud.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-16T19:31:22.91Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
