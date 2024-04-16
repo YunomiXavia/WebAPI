@@ -1,0 +1,52 @@
+App Structure
+-------------
+
+● src
++---● actions
+|   |
+|   |-- api.ts (handle all http request)
+|   |-- hangHoa.ts (Redux actions & action creators) 
+|   |-- store.ts (configure redux store)
+|
++---● components
+|   |
+|   |--HangHoaForm.tsx (form operations) - child
+|   |--HangHoas.tsx  (list of records) - parent
+|   |--useForm.tsx (handles common form operations)
+|
+|---● reducers
+|   |
+|   |--hangHoa.tsx
+|   |--index.tsx
+|
+|-- App.tsx
+|-- index.tsx
+|-- index.css
+
+#Install
+redux: npm i redux
+react-redux: npm i react-redux
+redux-thunk: npm i redux-thunk
+axios: npm i axios
+material ui core: npm i -s @material-ui/core @material-ui/icons
+react toast notifications: npm i -s react-toast-notifications
+react-video-js: npm install react-video-js
+// npm install cors --save
+// npm i ts-node
+
+redux has 3 elements:
+    - actions - create, update, delete etc ,data 
+    - reducers: action passes to the reducer, reducer will modify the data inside the store
+    - store
+    
+
+
+debug:
+    - "C:/Program Files/Google/Chrome/Application/chrome.exe" --user-data-dir="C:/Chrome dev session" --disable-web-security (https://www.youtube.com/watch?v=v_e7NH_iCjw&ab_channel=UmairtipsStudio)
+    -     // "build": "tsc && vite build",
+    TSC_COMPILE_ON_ERROR=true
+    ESLINT_NO_DEV_ERRORS=true
+    - "force-start": "TSX_COMPILE_ON_ERROR=true ESLINT_NO_DEV_ERRORS=true react-scripts start"
+
+
+cmpnt -> dispatch(action) -> reducer -> cmpnt

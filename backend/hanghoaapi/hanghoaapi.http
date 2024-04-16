@@ -1,0 +1,6 @@
+@hanghoaapi_HostAddress = http://localhost:5104
+
+GET {{hanghoaapi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
