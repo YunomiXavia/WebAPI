@@ -37,12 +37,12 @@ namespace hanghoaapi.Controllers
         }
 
         // GET: api/HangHoa/5
-        [HttpGet("{id}")]
-        public async Task<ActionResult<HangHoa>> GetHangHoa(int id)
+        [HttpGet("{ma_hanghoa}")]
+        public async Task<ActionResult<HangHoa>> GetHangHoa(string ma_hanghoa)
         {
             try
             {
-                var hangHoa = await _context.HangHoas.FindAsync(id);
+                var hangHoa = await _context.HangHoas.FindAsync(ma_hanghoa);
 
                 if (hangHoa == null)
                 {
@@ -59,10 +59,10 @@ namespace hanghoaapi.Controllers
         }
 
         // PUT: api/HangHoa/5
-        [HttpPut("{id}")]
-        public async Task<IActionResult> PutHangHoa(int id, HangHoa hangHoa)
+        [HttpPut("{ma_hanghoa}")]
+        public async Task<IActionResult> PutHangHoa(string ma_hanghoa, HangHoa hangHoa)
         {
-            hangHoa.id = id;
+            hangHoa.ma_hanghoa = ma_hanghoa;
             _context.Entry(hangHoa).State = EntityState.Modified;
 
             try
@@ -71,7 +71,7 @@ namespace hanghoaapi.Controllers
             }
             catch (DbUpdateConcurrencyException)
             {
-                if (!HangHoaExists(id))
+                if (!HangHoaExists(ma_hanghoa))
                 {
                     return NotFound();
                 }
@@ -105,7 +105,7 @@ namespace hanghoaapi.Controllers
                 _context.HangHoas.Add(hangHoa);
                 await _context.SaveChangesAsync();
 
-                return CreatedAtAction("GetHangHoa", new { id = hangHoa.id }, hangHoa);
+                return CreatedAtAction("GetHangHoa", new { ma_hanghoa = hangHoa.ma_hanghoa }, hangHoa);
             }
             catch (DbUpdateException ex)
             {
@@ -127,12 +127,12 @@ namespace hanghoaapi.Controllers
         }
 
         // DELETE: api/HangHoa/5
-        [HttpDelete("{id}")]
-        public async Task<IActionResult> DeleteHangHoa(int id)
+        [HttpDelete("{ma_hanghoa}")]
+        public async Task<IActionResult> DeleteHangHoa(string ma_hanghoa)
         {
             try
             {
-                var hangHoa = await _context.HangHoas.FindAsync(id);
+                var hangHoa = await _context.HangHoas.FindAsync(ma_hanghoa);
                 if (hangHoa == null)
                 {
                     return NotFound();
@@ -155,9 +155,9 @@ namespace hanghoaapi.Controllers
             }
         }
 
-        private bool HangHoaExists(int id)
+        private bool HangHoaExists(string ma_hanghoa)
         {
-            return _context.HangHoas.Any(e => e.id == id);
+            return _context.HangHoas.Any(e => e.ma_hanghoa == ma_hanghoa);
         }
     }
 }

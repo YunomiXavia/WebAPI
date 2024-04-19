@@ -1,22 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\WebBe\\backend\\hanghoaapi\\",
+  "WorkspaceRootPath": "E:\\Learn\\File Hoc\\WebBe\\backend\\hanghoaapi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BACB5F99-8C8B-4384-A9B3-6B1847354DF5}|hanghoaapi.csproj|e:\\webbe\\backend\\hanghoaapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BACB5F99-8C8B-4384-A9B3-6B1847354DF5}|hanghoaapi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BACB5F99-8C8B-4384-A9B3-6B1847354DF5}|hanghoaapi.csproj|e:\\webbe\\backend\\hanghoaapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{BACB5F99-8C8B-4384-A9B3-6B1847354DF5}|hanghoaapi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BACB5F99-8C8B-4384-A9B3-6B1847354DF5}|hanghoaapi.csproj|e:\\webbe\\backend\\hanghoaapi\\controllers\\hanghoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BACB5F99-8C8B-4384-A9B3-6B1847354DF5}|hanghoaapi.csproj|e:\\learn\\file hoc\\webbe\\backend\\hanghoaapi\\controllers\\hanghoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BACB5F99-8C8B-4384-A9B3-6B1847354DF5}|hanghoaapi.csproj|solutionrelative:controllers\\hanghoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BACB5F99-8C8B-4384-A9B3-6B1847354DF5}|hanghoaapi.csproj|e:\\webbe\\backend\\hanghoaapi\\hanghoaapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{BACB5F99-8C8B-4384-A9B3-6B1847354DF5}|hanghoaapi.csproj|solutionrelative:hanghoaapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{BACB5F99-8C8B-4384-A9B3-6B1847354DF5}|hanghoaapi.csproj|e:\\learn\\file hoc\\webbe\\backend\\hanghoaapi\\models\\hanghoacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BACB5F99-8C8B-4384-A9B3-6B1847354DF5}|hanghoaapi.csproj|solutionrelative:models\\hanghoacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BACB5F99-8C8B-4384-A9B3-6B1847354DF5}|hanghoaapi.csproj|e:\\learn\\file hoc\\webbe\\backend\\hanghoaapi\\models\\hanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BACB5F99-8C8B-4384-A9B3-6B1847354DF5}|hanghoaapi.csproj|solutionrelative:models\\hanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BACB5F99-8C8B-4384-A9B3-6B1847354DF5}|hanghoaapi.csproj|e:\\learn\\file hoc\\webbe\\backend\\hanghoaapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BACB5F99-8C8B-4384-A9B3-6B1847354DF5}|hanghoaapi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BACB5F99-8C8B-4384-A9B3-6B1847354DF5}|hanghoaapi.csproj|e:\\learn\\file hoc\\webbe\\backend\\hanghoaapi\\migrations\\20240419221428_edit-constrain#3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BACB5F99-8C8B-4384-A9B3-6B1847354DF5}|hanghoaapi.csproj|solutionrelative:migrations\\20240419221428_edit-constrain#3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BACB5F99-8C8B-4384-A9B3-6B1847354DF5}|hanghoaapi.csproj|e:\\learn\\file hoc\\webbe\\backend\\hanghoaapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BACB5F99-8C8B-4384-A9B3-6B1847354DF5}|hanghoaapi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,52 +50,76 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\WebBe\\backend\\hanghoaapi\\Program.cs",
+              "DocumentMoniker": "E:\\Learn\\File Hoc\\WebBe\\backend\\hanghoaapi\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "E:\\WebBe\\backend\\hanghoaapi\\Program.cs",
+              "ToolTip": "E:\\Learn\\File Hoc\\WebBe\\backend\\hanghoaapi\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAACYAAAAXAAAA",
+              "ViewState": "AQIAACMAAAAAAAAAAAAAADMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-16T14:49:09.849Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "HangHoaController.cs",
-              "DocumentMoniker": "E:\\WebBe\\backend\\hanghoaapi\\Controllers\\HangHoaController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HangHoaController.cs",
-              "ToolTip": "E:\\WebBe\\backend\\hanghoaapi\\Controllers\\HangHoaController.cs",
-              "RelativeToolTip": "Controllers\\HangHoaController.cs",
-              "ViewState": "AQIAADIAAAAAAAAAAAAwwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-16T14:49:00.776Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "E:\\WebBe\\backend\\hanghoaapi\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "E:\\WebBe\\backend\\hanghoaapi\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-04-16T14:48:50.059Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-16T18:53:40.693Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "hanghoaapi",
-              "DocumentMoniker": "E:\\WebBe\\backend\\hanghoaapi\\hanghoaapi.csproj",
-              "RelativeDocumentMoniker": "hanghoaapi.csproj",
-              "ToolTip": "E:\\WebBe\\backend\\hanghoaapi\\hanghoaapi.csproj",
-              "RelativeToolTip": "hanghoaapi.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-16T14:41:58.798Z"
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Learn\\File Hoc\\WebBe\\backend\\hanghoaapi\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "E:\\Learn\\File Hoc\\WebBe\\backend\\hanghoaapi\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-16T18:57:05.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HangHoaContext.cs",
+              "DocumentMoniker": "E:\\Learn\\File Hoc\\WebBe\\backend\\hanghoaapi\\Models\\HangHoaContext.cs",
+              "RelativeDocumentMoniker": "Models\\HangHoaContext.cs",
+              "ToolTip": "E:\\Learn\\File Hoc\\WebBe\\backend\\hanghoaapi\\Models\\HangHoaContext.cs",
+              "RelativeToolTip": "Models\\HangHoaContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T18:56:03.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HangHoa.cs",
+              "DocumentMoniker": "E:\\Learn\\File Hoc\\WebBe\\backend\\hanghoaapi\\Models\\HangHoa.cs",
+              "RelativeDocumentMoniker": "Models\\HangHoa.cs",
+              "ToolTip": "E:\\Learn\\File Hoc\\WebBe\\backend\\hanghoaapi\\Models\\HangHoa.cs",
+              "RelativeToolTip": "Models\\HangHoa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T18:55:36.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HangHoaController.cs",
+              "DocumentMoniker": "E:\\Learn\\File Hoc\\WebBe\\backend\\hanghoaapi\\Controllers\\HangHoaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HangHoaController.cs",
+              "ToolTip": "E:\\Learn\\File Hoc\\WebBe\\backend\\hanghoaapi\\Controllers\\HangHoaController.cs",
+              "RelativeToolTip": "Controllers\\HangHoaController.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAwwEkAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T14:49:00.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20240419221428_Edit-constrain#3.cs",
+              "DocumentMoniker": "E:\\Learn\\File Hoc\\WebBe\\backend\\hanghoaapi\\Migrations\\20240419221428_Edit-constrain#3.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240419221428_Edit-constrain#3.cs",
+              "ToolTip": "E:\\Learn\\File Hoc\\WebBe\\backend\\hanghoaapi\\Migrations\\20240419221428_Edit-constrain#3.cs",
+              "RelativeToolTip": "Migrations\\20240419221428_Edit-constrain#3.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T22:14:29.024Z"
             }
           ]
         }

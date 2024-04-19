@@ -5,9 +5,8 @@ namespace hanghoaapi.Models
 {
     public class HangHoa
     {
-        [Key]
-        public int id { get; set; }
 
+        [Key]
         [Required]
         [MaxLength(9)]
         [Column(TypeName = "char(9)")]

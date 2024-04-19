@@ -23,19 +23,12 @@ namespace hanghoaapi.Migrations
 
             modelBuilder.Entity("hanghoaapi.Models.HangHoa", b =>
                 {
-                    b.Property<int>("id")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
-
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("id"));
+                    b.Property<string>("ma_hanghoa")
+                        .HasMaxLength(9)
+                        .HasColumnType("char(9)");
 
                     b.Property<string>("ghi_chu")
                         .HasColumnType("nvarchar(75)");
-
-                    b.Property<string>("ma_hanghoa")
-                        .IsRequired()
-                        .HasMaxLength(9)
-                        .HasColumnType("char(9)");
 
                     b.Property<int>("so_luong")
                         .HasColumnType("int");
@@ -45,7 +38,7 @@ namespace hanghoaapi.Migrations
                         .HasMaxLength(50)
                         .HasColumnType("nvarchar(50)");
 
-                    b.HasKey("id");
+                    b.HasKey("ma_hanghoa");
 
                     b.ToTable("HangHoas");
                 });

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "E9pg9oBHNegtDea54LqD1Z8/P02nkGGfFjSG+EyGeO8wb7Q3ZxelJ4N7Nl0YRNZ7AmSrgrciCcsMnkbUffYpxQ==",
+  "dgSpecHash": "kItN7i2dCV+wb1BKGu+5FFULXoyA4G9el9gEkVUpaRDj7VLrkGSXV9Yxnjpda8kpFCjdeiUDAGdSXUMXqSjSkA==",
   "success": true,
-  "projectFilePath": "E:\\WebBe\\backend\\hanghoaapi\\hanghoaapi.csproj",
+  "projectFilePath": "E:\\Learn\\File Hoc\\WebBe\\backend\\hanghoaapi\\hanghoaapi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Yunomi Xavia\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Yunomi Xavia\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
