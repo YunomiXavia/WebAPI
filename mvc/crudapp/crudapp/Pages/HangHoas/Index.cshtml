@@ -1,0 +1,48 @@
+﻿@page
+@model crudapp.Pages.HangHoas.IndexModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-page="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.HangHoa[0].TenHangHoa)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.HangHoa[0].SoLuong)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.HangHoa[0].GhiChu)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.HangHoa) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.TenHangHoa)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SoLuong)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.GhiChu)
+            </td>
+            <td>
+                <a asp-page="./Edit" asp-route-id="@item.MaHangHoa">Edit</a> |
+                <a asp-page="./Details" asp-route-id="@item.MaHangHoa">Details</a> |
+                <a asp-page="./Delete" asp-route-id="@item.MaHangHoa">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

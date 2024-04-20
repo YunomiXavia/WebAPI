@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Learn\\File Hoc\\WebBe\\backend\\hanghoaapi\\hanghoaapi.csproj": {}
+    "F:\\File hoc\\WebAPI\\backend\\hanghoaapi\\hanghoaapi.csproj": {}
   },
   "projects": {
-    "E:\\Learn\\File Hoc\\WebBe\\backend\\hanghoaapi\\hanghoaapi.csproj": {
+    "F:\\File hoc\\WebAPI\\backend\\hanghoaapi\\hanghoaapi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Learn\\File Hoc\\WebBe\\backend\\hanghoaapi\\hanghoaapi.csproj",
+        "projectUniqueName": "F:\\File hoc\\WebAPI\\backend\\hanghoaapi\\hanghoaapi.csproj",
         "projectName": "hanghoaapi",
-        "projectPath": "E:\\Learn\\File Hoc\\WebBe\\backend\\hanghoaapi\\hanghoaapi.csproj",
-        "packagesPath": "C:\\Users\\Yunomi Xavia\\.nuget\\packages\\",
-        "outputPath": "E:\\Learn\\File Hoc\\WebBe\\backend\\hanghoaapi\\obj\\",
+        "projectPath": "F:\\File hoc\\WebAPI\\backend\\hanghoaapi\\hanghoaapi.csproj",
+        "packagesPath": "C:\\Users\\yunom\\.nuget\\packages\\",
+        "outputPath": "F:\\File hoc\\WebAPI\\backend\\hanghoaapi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "E:\\Apps\\Visual Studio Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Yunomi Xavia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\yunom\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

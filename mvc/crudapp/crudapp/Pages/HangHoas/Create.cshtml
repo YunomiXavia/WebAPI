@@ -1,0 +1,49 @@
+﻿@page
+@model crudapp.Pages.HangHoas.CreateModel
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>HangHoa</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="HangHoa.MaHangHoa" class="control-label"></label>
+                <input asp-for="HangHoa.MaHangHoa" class="form-control" />
+                <span asp-validation-for="HangHoa.MaHangHoa" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="HangHoa.TenHangHoa" class="control-label"></label>
+                <input asp-for="HangHoa.TenHangHoa" class="form-control" />
+                <span asp-validation-for="HangHoa.TenHangHoa" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="HangHoa.SoLuong" class="control-label"></label>
+                <input asp-for="HangHoa.SoLuong" class="form-control" />
+                <span asp-validation-for="HangHoa.SoLuong" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="HangHoa.GhiChu" class="control-label"></label>
+                <input asp-for="HangHoa.GhiChu" class="form-control" />
+                <span asp-validation-for="HangHoa.GhiChu" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-page="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
